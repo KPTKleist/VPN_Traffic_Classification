@@ -1,4 +1,4 @@
-# VPN-Traffic-Classification
+# VPN_Traffic_Classification
 
 This project utilizes a convolutional neural network (CNN) to differentiate different types of VPN traffic based on the payload data of network packets.
 
